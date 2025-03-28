@@ -1,0 +1,9 @@
+barcode,sample,sample_code,collection_site,length,repeat.,run,fragment,position
+barcode12,SI11,LF23,Sinai,273,N,run9,SRY,S8° 27.622' W76° 36.042' 
+barcode13,SI12,LF24,Sinai,255,N,run9,SRY,"S8° 27.622' W76° 36.042' 
+"
+barcode14,SR1,LF65,San Rafael,273,N,run9,SRY,"S5° 48.869' W77° 48.298' 
+"
+barcode15,MA3,LF4,Mariposa,272,N,run9,SRY,"S11° 25.256' W74° 44.714' 
+"
+barcode16,SI6,LF18,Sinai,273,N,run9,SRY,S8° 27.622' W76° 36.042'
